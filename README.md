@@ -25,7 +25,7 @@ JDBC – Database connectivity
 
 Clone the repository:
 
-git clone https://github.com/yourusername/technology-blogs.git
+git clone https://github.com/Aishwaryapol/technology-blogs.git
 
 Import the project into an IDE (Eclipse/IntelliJ).
 
